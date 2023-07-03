@@ -1,25 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on McDonald's
+- 🌱 I'm currently learning ITMO University
+- 📫 How to reach me: good0morning0canada0man@gmail.com
+- ⚡ Fun fact: Один в поле тоже воин
 
-<!--
-**ZaKHaRGooD/ZaKHaRGooD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### My stat
-
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaKHaRGooD&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZaKHaRGooD&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZaKHaRGooD&theme=github_dark" alt=""/>
-</div>
-
----
